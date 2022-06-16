@@ -3,7 +3,7 @@ natsort
 numpy
 rouge-score
 sentencepiece
-tensorflow==2.8.2
+tensorflow==2.7.3
 tensorflow-text
 tensor2tensor
 tfds-nightly

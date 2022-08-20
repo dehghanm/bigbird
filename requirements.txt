@@ -4,6 +4,6 @@ numpy
 rouge-score
 sentencepiece
 tensorflow==2.6.2
-ensorflow-text
+tensorflow-text
 tensor2tensor
 tfds-nightly
